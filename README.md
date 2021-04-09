@@ -6,6 +6,7 @@
 * [Authy](https://authy.com/)
 * [KeyBase](https://keybase.io/)
 * [CryptoMator](https://cryptomator.org/)
+* [AxCrypt](https://www.axantum.com/)
 
 ## Productivity
 
