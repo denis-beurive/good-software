@@ -16,6 +16,8 @@
 * [Sublime Text](https://www.sublimetext.com/)
 * [Sublime Merge](https://www.sublimemerge.com/)
 * [PDF Pro](https://www.pdfpro10.com/)
+* [WinRar](https://www.win-rar.com/)
+* [MobaXterm](https://mobaxterm.mobatek.net/)
 
 ## Techcnical
 
