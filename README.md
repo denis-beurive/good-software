@@ -15,6 +15,12 @@
 * [Pandoc](https://pandoc.org/)
 * [Sublime Text](https://www.sublimetext.com/)
 * [Sublime Merge](https://www.sublimemerge.com/)
+* [PDF Pro](https://www.pdfpro10.com/)
+
+## Techcnical
+
+* [GraphViz](https://graphviz.org/)
+* [PovRay](https://www.povray.org/)
 
 ## Notes
 
