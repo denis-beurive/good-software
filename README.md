@@ -24,6 +24,11 @@
 * [GraphViz](https://graphviz.org/)
 * [PovRay](https://www.povray.org/)
 
+##
+
+* [Gitea](https://gitea.io/en-us/)
+* [Cypress](https://www.cypress.io/)
+
 ## Notes
 
 ### Sublime text
