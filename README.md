@@ -13,11 +13,11 @@
 * [GreenShot](https://getgreenshot.org/)
 * [Yed](https://www.yworks.com/products/yed)
 * [Pandoc](https://pandoc.org/)
-* [Sublime Text](https://www.sublimetext.com/)
-* [Sublime Merge](https://www.sublimemerge.com/)
 * [PDF Pro](https://www.pdfpro10.com/)
 * [WinRar](https://www.win-rar.com/)
 * [MobaXterm](https://mobaxterm.mobatek.net/)
+* [Markdown here](https://markdown-here.com/) (plugin for FireFox)
+* [Dark reader](https://darkreader.org/) (plugin for FireFox)
 
 ## Techcnical
 
@@ -28,6 +28,10 @@
 
 * [Gitea](https://gitea.io/en-us/)
 * [Cypress](https://www.cypress.io/)
+* [Sublime merge](https://www.sublimemerge.com/)
+* [Sublime text](https://www.sublimetext.com/)
+* [BashSupport Pro for JetBrains](https://plugins.jetbrains.com/plugin/13841-bashsupport-pro)
+* [Perl for JetBrains](https://plugins.jetbrains.com/plugin/7796-perl) highly recommended!
 
 ## Notes
 
