@@ -2,36 +2,37 @@
 
 ## Security
 
-* [Keepassxc](https://keepassxc.org/)
-* [Authy](https://authy.com/)
+* [Keepassxc](https://keepassxc.org/): highly recommended!
+* [Authy](https://authy.com/): highly recommended!
 * [KeyBase](https://keybase.io/)
 * [CryptoMator](https://cryptomator.org/)
 * [AxCrypt](https://www.axantum.com/)
 
 ## Productivity
 
-* [GreenShot](https://getgreenshot.org/)
-* [Yed](https://www.yworks.com/products/yed)
-* [Pandoc](https://pandoc.org/)
+* [GreenShot](https://getgreenshot.org/): highly recommended!
+* [Yed](https://www.yworks.com/products/yed): highly recommended!
+* [Pandoc](https://pandoc.org/): highly recommended!
 * [PDF Pro](https://www.pdfpro10.com/)
-* [WinRar](https://www.win-rar.com/)
-* [MobaXterm](https://mobaxterm.mobatek.net/)
+* [WinRar](https://www.win-rar.com/): highly recommended!
+* [MobaXterm](https://mobaxterm.mobatek.net/): highly recommended!
 * [Markdown here](https://markdown-here.com/) (plugin for FireFox)
 * [Dark reader](https://darkreader.org/) (plugin for FireFox)
 
 ## Techcnical
 
-* [GraphViz](https://graphviz.org/)
-* [PovRay](https://www.povray.org/)
+* [GraphViz](https://graphviz.org/): highly recommended!
+* [PovRay](https://www.povray.org/): highly recommended!
 
 ## Development
 
 * [Gitea](https://gitea.io/en-us/)
 * [Cypress](https://www.cypress.io/)
-* [Sublime merge](https://www.sublimemerge.com/)
+* [Sublime merge](https://www.sublimemerge.com/): highly recommended!
 * [Sublime text](https://www.sublimetext.com/)
 * [BashSupport Pro for JetBrains](https://plugins.jetbrains.com/plugin/13841-bashsupport-pro)
 * [Perl for JetBrains](https://plugins.jetbrains.com/plugin/7796-perl) highly recommended!
+* [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html): highly recommended! It is used to homogenize the formatting of the code.
 
 ## Notes
 
