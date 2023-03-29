@@ -33,6 +33,7 @@
 * [BashSupport Pro for JetBrains](https://plugins.jetbrains.com/plugin/13841-bashsupport-pro)
 * [Perl for JetBrains](https://plugins.jetbrains.com/plugin/7796-perl) highly recommended!
 * [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html): highly recommended! It is used to homogenize the formatting of the code.
+* [HeidiSQL](https://www.heidisql.com/download.php?download=installer): pretty good Windows client for MariaDB.
 
 ## Notes
 
