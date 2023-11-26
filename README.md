@@ -18,6 +18,9 @@
 * [MobaXterm](https://mobaxterm.mobatek.net/): highly recommended!
 * [Markdown here](https://markdown-here.com/) (plugin for FireFox)
 * [Dark reader](https://darkreader.org/) (plugin for FireFox)
+* [TLDR](https://tldr.sh/)
+* [btop](https://github.com/aristocratos/btop)
+* [BitVise SSH client](https://www.bitvise.com/ssh-client)
 
 ## Techcnical
 
