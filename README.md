@@ -1,4 +1,4 @@
-# Good Software
+# Good Software and links
 
 ## Security
 
@@ -32,19 +32,22 @@
 * [Gitea](https://gitea.io/en-us/)
 * [Cypress](https://www.cypress.io/)
 * [Sublime merge](https://www.sublimemerge.com/): highly recommended!
-* [Sublime text](https://www.sublimetext.com/)
+* [Sublime text](https://www.sublimetext.com/): see [these notes](sublimtext.md)
 * [BashSupport Pro for JetBrains](https://plugins.jetbrains.com/plugin/13841-bashsupport-pro)
 * [Perl for JetBrains](https://plugins.jetbrains.com/plugin/7796-perl) highly recommended!
 * [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html): highly recommended! It is used to homogenize the formatting of the code.
 * [HeidiSQL](https://www.heidisql.com/download.php?download=installer): pretty good Windows client for MariaDB.
+* [List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Unicode_symbols): useful if you need to draw schemas in source codes, for example. You can draw boxes, arrows...
 
 ## Notes
 
 ### Sublime text
 
-Version:
+#### Version
 
 ![](images/sublime-text-version.png)
+
+#### Plugin installation
 
 The documentation for installing a plugin is not accurate.
 
