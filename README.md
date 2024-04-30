@@ -39,5 +39,8 @@
 * [HeidiSQL](https://www.heidisql.com/download.php?download=installer): pretty good Windows client for MariaDB.
 * [List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Unicode_symbols): useful if you need to draw schemas in source codes, for example. You can draw boxes, arrows...
 
+## Crypto
 
+* [Cake Wallet](https://cakewallet.com/)
+* [Agora Desk](https://agoradesk.com)
 
