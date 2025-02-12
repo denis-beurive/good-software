@@ -7,6 +7,7 @@
 * [KeyBase](https://keybase.io/)
 * [CryptoMator](https://cryptomator.org/)
 * [AxCrypt](https://www.axantum.com/)
+* [FireFox Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts.
 
 ## Productivity
 
