@@ -7,7 +7,12 @@
 * [KeyBase](https://keybase.io/)
 * [CryptoMator](https://cryptomator.org/)
 * [AxCrypt](https://www.axantum.com/)
-* [FireFox Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts.
+* Firefox extentions (_the best browser_):
+  * [Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts.
+  * [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/): prevent Facebook from tracking you around the web.
+  * [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/): displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more...
+  * [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/): spoof websites trying to gather information about your web navigation.
+  * [Firefox Relay](https://addons.mozilla.org/en-US/firefox/addon/private-relay/): firefox Relay lets you generate email aliases that forward to your real inbox.
 
 ## Productivity
 
@@ -21,7 +26,9 @@
 * [Dark reader](https://darkreader.org/) (plugin for FireFox)
 * [TLDR](https://tldr.sh/)
 * [btop](https://github.com/aristocratos/btop)
-* [BitVise SSH client](https://www.bitvise.com/ssh-client)
+* [BitVise SSH client](https://www.bitvise.com/ssh-client): realy good SSH toolkit!
+* Firefox extentions (_the best browser_):
+  * [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/): vertical tabs tree and bookmarks in sidebar with advanced containers configuration, grouping and many other features.
 
 ## Techcnical
 
