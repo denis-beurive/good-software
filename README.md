@@ -7,7 +7,7 @@
 * [KeyBase](https://keybase.io/)
 * [CryptoMator](https://cryptomator.org/)
 * [AxCrypt](https://www.axantum.com/)
-* Firefox extentions (_the best browser_):
+* Firefox extentions:
   * [Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts.
   * [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/): prevent Facebook from tracking you around the web.
   * [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/): displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more...
@@ -22,13 +22,13 @@
 * [PDF Pro](https://www.pdfpro10.com/)
 * [WinRar](https://www.win-rar.com/): highly recommended!
 * [MobaXterm](https://mobaxterm.mobatek.net/): highly recommended!
-* [Markdown here](https://markdown-here.com/) (plugin for FireFox)
-* [Dark reader](https://darkreader.org/) (plugin for FireFox)
 * [TLDR](https://tldr.sh/)
 * [btop](https://github.com/aristocratos/btop)
 * [BitVise SSH client](https://www.bitvise.com/ssh-client): realy good SSH toolkit!
-* Firefox extentions (_the best browser_):
+* Firefox extentions:
   * [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/): vertical tabs tree and bookmarks in sidebar with advanced containers configuration, grouping and many other features.
+  * [Markdown here](https://markdown-here.com/) (plugin for FireFox)
+  * [Dark reader](https://darkreader.org/) (plugin for FireFox)
 
 ## Techcnical
 
