@@ -47,8 +47,29 @@
 * [HeidiSQL](https://www.heidisql.com/download.php?download=installer): pretty good Windows client for MariaDB.
 * [List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Unicode_symbols): useful if you need to draw schemas in source codes, for example. You can draw boxes, arrows...
 
+## IM
+
+* [Ejabberd](https://www.ejabberd.im/)
+* [Movim](https://movim.eu/): XMPP Web client.
+
 ## Crypto
 
+Software wallets:
 * [Cake Wallet](https://cakewallet.com/)
-* [Agora Desk](https://agoradesk.com)
+* [Electrum wallet](https://electrum.org/)
 
+P2P exchanges:
+* [Peach Bicoin](https://peachbitcoin.com/index.html): Trade Bitcoin Without KYC (Buy & Sell Bitcoin Peer-to-Peer)
+* [BISQ](https://bisq.network/): Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required.
+* [Robosat](https://github.com/RoboSats/robosats): RoboSats is a simple and private way to exchange bitcoin for national currencies. Robosats simplifies the peer-to-peer user experience and uses lightning hold invoices to minimize custody and trust requirements.
+
+Bitcoin faucets:
+* [Bitcoin Testnet Faucet](https://bitcoinfaucet.uo1.net/)
+* [Crypto Pump](https://cryptopump.info/)
+* [Coin Faucet](https://coinfaucet.eu/en/btc-testnet/)
+* [Kuttler](https://kuttler.eu/en/bitcoin/btc/faucet/)
+
+Bitcoin nodes:
+* [Nix Bitcoin](https://nixbitcoin.org/): Ready to use BTC node.
+* [RaspiBlitz](https://docs.raspiblitz.org): Ready to use BTC node.
+* [bitcoin-testnet-box](https://github.com/freewil/bitcoin-testnet-box): Create your own testnet blockchain.
