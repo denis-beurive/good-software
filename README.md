@@ -55,6 +55,7 @@
 ## Crypto
 
 Software wallets:
+* [Sparrow Wallet](https://sparrowwallet.com/): very good wallet!
 * [Cake Wallet](https://cakewallet.com/)
 * [Electrum wallet](https://electrum.org/)
 
@@ -70,6 +71,7 @@ Bitcoin faucets:
 * [Kuttler](https://kuttler.eu/en/bitcoin/btc/faucet/)
 
 Bitcoin nodes:
+* [Umbrel OS](https://umbrel.com): Ready to use BTC node and much more.
 * [Nix Bitcoin](https://nixbitcoin.org/): Ready to use BTC node.
 * [RaspiBlitz](https://docs.raspiblitz.org): Ready to use BTC node.
 * [bitcoin-testnet-box](https://github.com/freewil/bitcoin-testnet-box): Create your own testnet blockchain.
