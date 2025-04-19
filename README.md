@@ -52,6 +52,18 @@
 * [Ejabberd](https://www.ejabberd.im/)
 * [Movim](https://movim.eu/): XMPP Web client.
 
+## OS
+
+* [Umbrel OS](https://umbrel.com/): Your cloud. In your home. You can also run a BTC node.
+* [Freedom Box](https://www.freedombox.org/): Run your digital services from your home.
+* [Proteus](https://www.porteus.org): Porteus is a complete linux operating system that is optimized to run from CD, USB flash drive, hard drive, or other bootable storage media.
+* [Slax](https://www.slax.org): Slax is a Live operating system based on Linux. Live means it runs from an external media without any need for permanent installation. Slax boots from USB mass storage devices such as Flash Drive keys as well as from regular hard drives and CD/DVD discs.
+* [Tails](https://tails.net/): Tails is a portable operating system that protects against surveillance and censorship.
+* [NixOS](https://nixos.org/): Declarative builds and deployments. 
+* [Parrot OS](https://www.parrotsec.org/): Parrot Security provides a huge arsenal of tools, utilities and libraries that IT and security professionals can use to test and assess the security of their assets in a reliable, compliant and reproducible way. From information gathering to the final report. The Parrot system gets you covered with the most flexible environment.
+* [Linux Kodachi](https://www.digi77.com/linux-kodachi/): The Linux Kodachi operating system, a derivative of Xubuntu 18.04.6, offers a highly secure, anti-forensic, and anonymous computing environment. It’s designed with privacy in mind, incorporating all the features needed to maintain user confidentiality and security.
+* [Whonix](https://www.whonix.org): Whonix is an anonymous operating system that runs like an app and routes all Internet traffic through the Tor anonymity network. It offers privacy protection and anonymity online and is available for all major operating systems.
+
 ## Crypto
 
 Software wallets:
@@ -75,3 +87,8 @@ Bitcoin nodes:
 * [Nix Bitcoin](https://nixbitcoin.org/): Ready to use BTC node.
 * [RaspiBlitz](https://docs.raspiblitz.org): Ready to use BTC node.
 * [bitcoin-testnet-box](https://github.com/freewil/bitcoin-testnet-box): Create your own testnet blockchain.
+
+## Motherboards
+
+* [Olimex](https://www.olimex.com/): Please have a look to OLinuXino - Industrial Linux SBC - Open Source Hardware Boards ([here](https://www.olimex.com/Products/OLinuXino/open-source-hardware)).
+
