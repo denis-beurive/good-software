@@ -1,6 +1,6 @@
-# Good Software and links
+# Good Software / hardware and links
 
-## Security
+## Security and Privacy
 
 * [Keepassxc](https://keepassxc.org/): highly recommended!
 * [Authy](https://authy.com/): highly recommended!
@@ -13,6 +13,10 @@
   * [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/): displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more...
   * [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/): spoof websites trying to gather information about your web navigation.
   * [Firefox Relay](https://addons.mozilla.org/en-US/firefox/addon/private-relay/): firefox Relay lets you generate email aliases that forward to your real inbox.
+* [Brave](https://brave.com): Brave defends your privacy by defaults.
+  * Recommended extension: DuckDuckGo Search & Tracker Protection.
+  * Good to know: use the private navigation window.
+* [DuckDuckGo Brower](https://duckduckgo.com/): A pretty good privacy oriented browser. I like the "fire button".
 
 ## Productivity
 
