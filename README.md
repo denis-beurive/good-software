@@ -34,6 +34,10 @@
   * [Markdown here](https://markdown-here.com/) (plugin for FireFox)
   * [Dark reader](https://darkreader.org/) (plugin for FireFox)
 
+## File sharing
+
+* [QBittorrent](https://www.qbittorrent.org/): Cross-platform BitTorrent client.
+
 ## Techcnical
 
 * [GraphViz](https://graphviz.org/): highly recommended!
