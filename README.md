@@ -100,3 +100,17 @@ Bitcoin nodes:
 
 * [Olimex](https://www.olimex.com/): Please have a look to OLinuXino - Industrial Linux SBC - Open Source Hardware Boards ([here](https://www.olimex.com/Products/OLinuXino/open-source-hardware)).
 
+## Freedom oriented projects
+
+* [Meshtastic](https://meshtastic.org/): An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices.
+* [GnuNet](https://www.gnunet.org/en/index.html): GNUnet provides privacy-by design.
+* [Yggdrasil](https://yggdrasil-network.github.io/): Yggdrasil is a new experimental compact routing scheme. It is designed to be a future-proof and decentralised alternative to the structured routing protocols commonly used today on the Internet, as well as an enabling technology for future large-scale mesh networks.
+* [Mailcow](https://mailcow.email/)
+* [Mail-in-a-Box](https://mailinabox.email/)
+* [Poste.io](https://poste.io/)
+* [YunoHost](https://yunohost.org/): We advocate a decentralized Internet, with open, interoperable technologies that respect privacy and empowers people.
+* [DNSCrypt](https://www.dnscrypt.org/): DNSCrypt is a protocol that authenticates communications between a DNS client and a DNS resolver. It prevents DNS spoofing. It uses cryptographic signatures to verify that responses originate from the chosen DNS resolver and haven't been tampered with.
+* [Bitwarden RS](https://github.com/Bruceforce/bitwarden_rs): Bitwarden RS is Bitwarden API implementation written in Rust. It's very resource efficient implementation (uses about 10MB of RAM, close to no CPU) written by Daniel García.
+* [Vaultwarden](https://github.com/dani-garcia/vaultwarden): An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients.
+* [Retroshare](https://retroshare.cc/): Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail... Retroshare is fully decentralized, and designed to provide maximum security and anonymity to its users beyond direct friends.
+
