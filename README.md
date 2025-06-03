@@ -71,6 +71,7 @@
 * [Parrot OS](https://www.parrotsec.org/): Parrot Security provides a huge arsenal of tools, utilities and libraries that IT and security professionals can use to test and assess the security of their assets in a reliable, compliant and reproducible way. From information gathering to the final report. The Parrot system gets you covered with the most flexible environment.
 * [Linux Kodachi](https://www.digi77.com/linux-kodachi/): The Linux Kodachi operating system, a derivative of Xubuntu 18.04.6, offers a highly secure, anti-forensic, and anonymous computing environment. It’s designed with privacy in mind, incorporating all the features needed to maintain user confidentiality and security.
 * [Whonix](https://www.whonix.org): Whonix is an anonymous operating system that runs like an app and routes all Internet traffic through the Tor anonymity network. It offers privacy protection and anonymity online and is available for all major operating systems.
+* [DietPi](https://dietpi.com/): DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential.
 
 ## Crypto
 
@@ -114,3 +115,7 @@ Bitcoin nodes:
 * [Vaultwarden](https://github.com/dani-garcia/vaultwarden): An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients.
 * [Retroshare](https://retroshare.cc/): Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail... Retroshare is fully decentralized, and designed to provide maximum security and anonymity to its users beyond direct friends.
 
+## Links
+
+* [NetHood](https://nethood.org/): NetHood is about bridging the digital with the physical space; sharing ideas and experiences, affirming differences; claiming our right to the hybrid city; building together local solutions for local needs, as part of a global community of practice, including: the organic Internet, neighborhood catalysts, complementary currencies, cooperative housing, and sustainable food culture. See the [list of lnks](https://nethood.org/links/).
+* [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): This is a list of Free Software network services and web applications which can be hosted on your own server(s).
