@@ -84,6 +84,7 @@ P2P exchanges:
 * [Peach Bicoin](https://peachbitcoin.com/index.html): Trade Bitcoin Without KYC (Buy & Sell Bitcoin Peer-to-Peer)
 * [BISQ](https://bisq.network/): Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required.
 * [Robosat](https://github.com/RoboSats/robosats): RoboSats is a simple and private way to exchange bitcoin for national currencies. Robosats simplifies the peer-to-peer user experience and uses lightning hold invoices to minimize custody and trust requirements.
+* [Hodl Hodl/](https://hodlhodl.com/): P2P BITCOIN TRADING platform. Non-custodial Bitcoin trading solution, we don’t hold your funds. See: https://youtu.be/epLslPQC-EA?si=2sExQSf3TBZzr9It
 
 Bitcoin faucets:
 * [Bitcoin Testnet Faucet](https://bitcoinfaucet.uo1.net/)
