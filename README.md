@@ -3,6 +3,7 @@
 ## Security and Privacy
 
 * [Keepassxc](https://keepassxc.org/): highly recommended!
+* [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete): secure delete for Windows.
 * [Authy](https://authy.com/): highly recommended!
 * [KeyBase](https://keybase.io/)
 * [CryptoMator](https://cryptomator.org/)
@@ -115,6 +116,7 @@ Bitcoin nodes:
 * [Bitwarden RS](https://github.com/Bruceforce/bitwarden_rs): Bitwarden RS is Bitwarden API implementation written in Rust. It's very resource efficient implementation (uses about 10MB of RAM, close to no CPU) written by Daniel García.
 * [Vaultwarden](https://github.com/dani-garcia/vaultwarden): An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients.
 * [Retroshare](https://retroshare.cc/): Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail... Retroshare is fully decentralized, and designed to provide maximum security and anonymity to its users beyond direct friends.
+* [Meshtastic](https://meshtastic.org/): Off-Grid Communication For Everyone.
 
 ## Links
 
