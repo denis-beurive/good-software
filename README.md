@@ -18,6 +18,7 @@
   * Recommended extension: DuckDuckGo Search & Tracker Protection.
   * Good to know: use the private navigation window.
 * [DuckDuckGo Brower](https://duckduckgo.com/): A pretty good privacy oriented browser. I like the "fire button".
+* [Lucks / cryptsetup](https://gitlab.com/cryptsetup/cryptsetup): Create encrypted partitions.
 
 ## Productivity
 
@@ -117,6 +118,7 @@ Bitcoin nodes:
 * [Vaultwarden](https://github.com/dani-garcia/vaultwarden): An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients.
 * [Retroshare](https://retroshare.cc/): Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail... Retroshare is fully decentralized, and designed to provide maximum security and anonymity to its users beyond direct friends.
 * [Meshtastic](https://meshtastic.org/): Off-Grid Communication For Everyone.
+* [Nostr](https://nostr.com/): Very simple service that can be used for sharing data. No KYC.
 
 ## Links
 
