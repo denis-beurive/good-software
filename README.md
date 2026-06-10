@@ -66,12 +66,12 @@
 
 * [Umbrel OS](https://umbrel.com/): Your cloud. In your home. You can also run a BTC node.
 * [Freedom Box](https://www.freedombox.org/): Run your digital services from your home.
-* [Proteus](https://www.porteus.org): Porteus is a complete linux operating system that is optimized to run from CD, USB flash drive, hard drive, or other bootable storage media.
+* [Porteus](https://www.porteus.org): Porteus is a complete linux operating system that is optimized to run from CD, USB flash drive, hard drive, or other bootable storage media.
 * [Slax](https://www.slax.org): Slax is a Live operating system based on Linux. Live means it runs from an external media without any need for permanent installation. Slax boots from USB mass storage devices such as Flash Drive keys as well as from regular hard drives and CD/DVD discs.
 * [Tails](https://tails.net/): Tails is a portable operating system that protects against surveillance and censorship.
 * [NixOS](https://nixos.org/): Declarative builds and deployments. 
 * [Parrot OS](https://www.parrotsec.org/): Parrot Security provides a huge arsenal of tools, utilities and libraries that IT and security professionals can use to test and assess the security of their assets in a reliable, compliant and reproducible way. From information gathering to the final report. The Parrot system gets you covered with the most flexible environment.
-* [Linux Kodachi](https://www.digi77.com/linux-kodachi/): The Linux Kodachi operating system, a derivative of Xubuntu 18.04.6, offers a highly secure, anti-forensic, and anonymous computing environment. It’s designed with privacy in mind, incorporating all the features needed to maintain user confidentiality and security.
+* [Linux Kodachi](https://www.kodachi.cloud): The Linux Kodachi operating system, a derivative of Xubuntu 18.04.6, offers a highly secure, anti-forensic, and anonymous computing environment. It’s designed with privacy in mind, incorporating all the features needed to maintain user confidentiality and security.
 * [Whonix](https://www.whonix.org): Whonix is an anonymous operating system that runs like an app and routes all Internet traffic through the Tor anonymity network. It offers privacy protection and anonymity online and is available for all major operating systems.
 * [DietPi](https://dietpi.com/): DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential.
 * [Caine](https://www.caine-live.net/): CAINE (Computer Aided INvestigative Environment) is an Italian GNU/Linux live distribution created as a Digital Forensics project.
