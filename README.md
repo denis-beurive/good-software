@@ -74,6 +74,7 @@
 * [Linux Kodachi](https://www.digi77.com/linux-kodachi/): The Linux Kodachi operating system, a derivative of Xubuntu 18.04.6, offers a highly secure, anti-forensic, and anonymous computing environment. It’s designed with privacy in mind, incorporating all the features needed to maintain user confidentiality and security.
 * [Whonix](https://www.whonix.org): Whonix is an anonymous operating system that runs like an app and routes all Internet traffic through the Tor anonymity network. It offers privacy protection and anonymity online and is available for all major operating systems.
 * [DietPi](https://dietpi.com/): DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential.
+* [Caine](https://www.caine-live.net/): CAINE (Computer Aided INvestigative Environment) is an Italian GNU/Linux live distribution created as a Digital Forensics project.
 
 ## Crypto
 
