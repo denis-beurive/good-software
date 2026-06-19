@@ -120,6 +120,7 @@ Bitcoin nodes:
 * [Retroshare](https://retroshare.cc/): Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail... Retroshare is fully decentralized, and designed to provide maximum security and anonymity to its users beyond direct friends.
 * [Meshtastic](https://meshtastic.org/): Off-Grid Communication For Everyone.
 * [Nostr](https://nostr.com/): Very simple service that can be used for sharing data. No KYC.
+* [DeWeb](https://docs.massa.net/docs/deweb/home): The DeWeb is your gateway to a fully decentralized web.
 
 ## Links
 
