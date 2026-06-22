@@ -19,6 +19,7 @@
   * Good to know: use the private navigation window.
 * [DuckDuckGo Brower](https://duckduckgo.com/): A pretty good privacy oriented browser. I like the "fire button".
 * [Lucks / cryptsetup](https://gitlab.com/cryptsetup/cryptsetup): Create encrypted partitions.
+* [Parted Magic](https://partedmagic.com/): Disk Management Software: Erase, Partition, Clone. Runs from a USN key.
 
 ## Productivity
 
