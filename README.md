@@ -57,6 +57,8 @@
 * [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html): highly recommended! It is used to homogenize the formatting of the code.
 * [HeidiSQL](https://www.heidisql.com/download.php?download=installer): pretty good Windows client for MariaDB.
 * [List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Unicode_symbols): useful if you need to draw schemas in source codes, for example. You can draw boxes, arrows...
+* [JS implementation of Shamir's Secret Sharing](https://digital-defiance.github.io/secrets-ts/)
+* [JS QR code library](https://www.nayuki.io/page/qr-code-generator-library#live-demo-javascript) - [The associated GitHub page](https://github.com/nayuki/QR-Code-generator)
 
 ## IM
 
