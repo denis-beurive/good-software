@@ -8,6 +8,7 @@
 * [KeyBase](https://keybase.io/)
 * [CryptoMator](https://cryptomator.org/)
 * [AxCrypt](https://www.axantum.com/)
+* [WinRar](https://www.win-rar.com/): WinRar uses state-of-the-art encryption. And **it is available for Windows, Linux, Mac and Android**. It is my favorite tool for creating encrypted archives.
 * Firefox extentions:
   * [Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts.
   * [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/): prevent Facebook from tracking you around the web.
@@ -20,6 +21,11 @@
 * [DuckDuckGo Brower](https://duckduckgo.com/): A pretty good privacy oriented browser. I like the "fire button".
 * [Lucks / cryptsetup](https://gitlab.com/cryptsetup/cryptsetup): Create encrypted partitions.
 * [Parted Magic](https://partedmagic.com/): Disk Management Software: Erase, Partition, Clone. Runs from a USN key.
+* [Mooltipass](https://www.themooltipass.com/): A Simple Open Source Hardware Authenticator.
+* [Onlykey](https://onlykey.io/): A pretty good hardware authenticator.
+* [Proton Authenticator](https://proton.me/authenticator): simply **the best** application for 2FA authentication. Why ?
+  - Because it is available for all operating systems (including Android and IOS).
+  - Because you can export (**and thus backup**) your 2FA codes. It is not the case for all 2FA applications.
 
 ## Productivity
 
@@ -57,8 +63,9 @@
 * [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html): highly recommended! It is used to homogenize the formatting of the code.
 * [HeidiSQL](https://www.heidisql.com/download.php?download=installer): pretty good Windows client for MariaDB.
 * [List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Unicode_symbols): useful if you need to draw schemas in source codes, for example. You can draw boxes, arrows...
-* [JS implementation of Shamir's Secret Sharing](https://digital-defiance.github.io/secrets-ts/)
+* [JS implementation of Shamir's Secret Sharing](https://digital-defiance.github.io/secrets-ts/) - [The associated GitHub page](https://github.com/Digital-Defiance/secrets-ts)
 * [JS QR code library](https://www.nayuki.io/page/qr-code-generator-library#live-demo-javascript) - [The associated GitHub page](https://github.com/nayuki/QR-Code-generator)
+* JavaCard smartcards for sale: [MoTechno](https://www.motechno.com/)
 
 ## IM
 
