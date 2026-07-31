@@ -15,6 +15,8 @@
   * [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/): displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more...
   * [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/): spoof websites trying to gather information about your web navigation.
   * [Firefox Relay](https://addons.mozilla.org/en-US/firefox/addon/private-relay/): firefox Relay lets you generate email aliases that forward to your real inbox.
+* Firefox configuration:
+  * [Fingerprinting resistance](https://support.mozilla.org/en-US/kb/resist-fingerprinting): When Resist Fingerprinting settings are enabled in Firefox Advanced Preferences (the Configuration Editor about:config page), it can help prevent websites from uniquely identifying you by limiting the information they can gather about your device. 
 * [Brave](https://brave.com): Brave defends your privacy by defaults.
   * Recommended extension: DuckDuckGo Search & Tracker Protection.
   * Good to know: use the private navigation window.
@@ -26,6 +28,8 @@
 * [Proton Authenticator](https://proton.me/authenticator): simply **the best** application for 2FA authentication. Why ?
   - Because it is available for all operating systems (including Android and IOS).
   - Because you can export (**and thus backup**) your 2FA codes. It is not the case for all 2FA applications.
+* [ProxyGambit](https://github.com/samyk/proxygambit): roxyGambit is a simple anonymization device that allows you to access the Internet from anywhere in the world without revealing your true location or IP, fracturing your traffic from the Internet/IP through either a long distance radio link or a reverse tunneled GSM bridge that ultimately drops back onto the Internet and exits through a wireless network you're no where near.
+* [Off-the-Record Messaging (OTR)](https://otr.cypherpunks.ca/): Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging.
 
 ## Productivity
 
