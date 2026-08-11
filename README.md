@@ -80,6 +80,9 @@
 
 * [Umbrel OS](https://umbrel.com/): Your cloud. In your home. You can also run a BTC node.
 * [Freedom Box](https://www.freedombox.org/): Run your digital services from your home.
+* [Yunohost](https://yunohost.org/): YunoHost is a system that installs itself on a server
+and allows you to install and maintain - with very little technical knowledge -
+digital services (apps) that you control.
 * [Porteus](https://www.porteus.org): Porteus is a complete linux operating system that is optimized to run from CD, USB flash drive, hard drive, or other bootable storage media.
 * [Slax](https://www.slax.org): Slax is a Live operating system based on Linux. Live means it runs from an external media without any need for permanent installation. Slax boots from USB mass storage devices such as Flash Drive keys as well as from regular hard drives and CD/DVD discs.
 * [Tails](https://tails.net/): Tails is a portable operating system that protects against surveillance and censorship.
