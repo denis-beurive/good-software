@@ -1,4 +1,4 @@
-# Good Software / hardware and links
+# Good Software / hardware / documentation and links
 
 ## Security and Privacy
 
@@ -30,6 +30,15 @@
   - Because you can export (**and thus backup**) your 2FA codes. It is not the case for all 2FA applications.
 * [ProxyGambit](https://github.com/samyk/proxygambit): roxyGambit is a simple anonymization device that allows you to access the Internet from anywhere in the world without revealing your true location or IP, fracturing your traffic from the Internet/IP through either a long distance radio link or a reverse tunneled GSM bridge that ultimately drops back onto the Internet and exits through a wireless network you're no where near.
 * [Off-the-Record Messaging (OTR)](https://otr.cypherpunks.ca/): Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging.
+
+## Hacking
+
+* [Phrack](https://phrack.org/): For 40 years, Phrack has published papers that have reflected and shaped 
+hacker culture. The knowledge shared in Phrack has laid the foundation for
+many fields of study, providing insight, a shared language, resources 
+and tools, as well as context and history. Phrack is written by hackers, 
+for hackers, and offers a glimpse into the world just beyond what most 
+people see.
 
 ## Productivity
 
@@ -143,3 +152,5 @@ Bitcoin nodes:
 
 * [NetHood](https://nethood.org/): NetHood is about bridging the digital with the physical space; sharing ideas and experiences, affirming differences; claiming our right to the hybrid city; building together local solutions for local needs, as part of a global community of practice, including: the organic Internet, neighborhood catalysts, complementary currencies, cooperative housing, and sustainable food culture. See the [list of lnks](https://nethood.org/links/).
 * [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): This is a list of Free Software network services and web applications which can be hosted on your own server(s).
+
+
