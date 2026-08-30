@@ -33,12 +33,7 @@
 
 ## Hacking
 
-* [Phrack](https://phrack.org/): For 40 years, Phrack has published papers that have reflected and shaped 
-hacker culture. The knowledge shared in Phrack has laid the foundation for
-many fields of study, providing insight, a shared language, resources 
-and tools, as well as context and history. Phrack is written by hackers, 
-for hackers, and offers a glimpse into the world just beyond what most 
-people see.
+* [Phrack](https://phrack.org/): For 40 years, Phrack has published papers that have reflected and shaped hacker culture. The knowledge shared in Phrack has laid the foundation for many fields of study, providing insight, a shared language, resources  and tools, as well as context and history. Phrack is written by hackers, for hackers, and offers a glimpse into the world just beyond what most people see.
 
 ## Productivity
 
