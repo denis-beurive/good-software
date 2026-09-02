@@ -78,6 +78,7 @@
 * [JS QR code library](https://www.nayuki.io/page/qr-code-generator-library#live-demo-javascript) - [The associated GitHub page](https://github.com/nayuki/QR-Code-generator)
 * JavaCard smartcards for sale: [MoTechno](https://www.motechno.com/)
 * [rPGP](https://github.com/rpgp/rpgp):rPGP is a pure Rust implementation of OpenPGP as specified in RFC9580. It supports the commonly used v4 formats, as well as the latest v6 key formats and AEAD encryption mechanisms.
+* [Awesome Hardware Random Number Generators](https://github.com/atoponce/awesome-hwrng): a list of hardware random number generators that was initially on Wikipedia, but has since been removed, as it did not meet certain guidelines.
 
 ## IM
 
