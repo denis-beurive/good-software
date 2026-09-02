@@ -30,6 +30,9 @@
   - Because you can export (**and thus backup**) your 2FA codes. It is not the case for all 2FA applications.
 * [ProxyGambit](https://github.com/samyk/proxygambit): roxyGambit is a simple anonymization device that allows you to access the Internet from anywhere in the world without revealing your true location or IP, fracturing your traffic from the Internet/IP through either a long distance radio link or a reverse tunneled GSM bridge that ultimately drops back onto the Internet and exits through a wireless network you're no where near.
 * [Off-the-Record Messaging (OTR)](https://otr.cypherpunks.ca/): Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging.
+* [GpgFrontend](https://gpgfrontend.bktus.com/): Free, easy OpenPGP encryption for Windows, macOS, and Linux. Lock your files and messages so only the right people can read them, with the trusted GnuPG engine or a modern, memory-safe Rust rPGP one.
+* [Age](https://github.com/filosottile/age): age is a simple, modern and secure file encryption tool, format, and Go library. It features small explicit keys, post-quantum support, no config options, and UNIX-style composability.
+
 
 ## Hacking
 
@@ -74,6 +77,7 @@
 * [JS implementation of Shamir's Secret Sharing](https://digital-defiance.github.io/secrets-ts/) - [The associated GitHub page](https://github.com/Digital-Defiance/secrets-ts)
 * [JS QR code library](https://www.nayuki.io/page/qr-code-generator-library#live-demo-javascript) - [The associated GitHub page](https://github.com/nayuki/QR-Code-generator)
 * JavaCard smartcards for sale: [MoTechno](https://www.motechno.com/)
+* [rPGP](https://github.com/rpgp/rpgp):rPGP is a pure Rust implementation of OpenPGP as specified in RFC9580. It supports the commonly used v4 formats, as well as the latest v6 key formats and AEAD encryption mechanisms.
 
 ## IM
 
