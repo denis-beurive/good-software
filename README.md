@@ -32,7 +32,10 @@
 * [Off-the-Record Messaging (OTR)](https://otr.cypherpunks.ca/): Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging.
 * [GpgFrontend](https://gpgfrontend.bktus.com/): Free, easy OpenPGP encryption for Windows, macOS, and Linux. Lock your files and messages so only the right people can read them, with the trusted GnuPG engine or a modern, memory-safe Rust rPGP one.
 * [Age](https://github.com/filosottile/age): age is a simple, modern and secure file encryption tool, format, and Go library. It features small explicit keys, post-quantum support, no config options, and UNIX-style composability.
-
+* AI:
+  - [Prompt injection as Role Confusion](https://role-confusion.github.io/)
+  - [JaiLIP: Jailbreaking Vision-Language Models via Loss Guided Image Perturbation](https://arxiv.org/html/2509.21401v2)
+  - [Call Me A Jerk: Persuading AI to Comply with Objectionable Requests](https://gail.wharton.upenn.edu/research-and-insights/persuading-llms-initial-study/)
 
 ## Hacking
 
@@ -79,6 +82,21 @@
 * JavaCard smartcards for sale: [MoTechno](https://www.motechno.com/)
 * [rPGP](https://github.com/rpgp/rpgp):rPGP is a pure Rust implementation of OpenPGP as specified in RFC9580. It supports the commonly used v4 formats, as well as the latest v6 key formats and AEAD encryption mechanisms.
 * [Awesome Hardware Random Number Generators](https://github.com/atoponce/awesome-hwrng): a list of hardware random number generators that was initially on Wikipedia, but has since been removed, as it did not meet certain guidelines.
+* AI:
+  - [OpenAI - Cookbook](https://developers.openai.com/cookbook)
+  - [OpenAI - Prompting guidance](https://developers.openai.com/api/docs/guides/prompt-guidance) (`GPT-4.1` to `GPT-5.5`)
+  - [OpenAI - Tokenizer](https://platform.openai.com/tokenizer)
+  - [Google - Prompt engineering: overview and guide](https://cloud.google.com/discover/what-is-prompt-engineering)
+  - [Microsoft - Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/prompt-engineering) (<`GPT-5`, not `o` series)
+  - [Anthropic - Prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices) (`Opus-4.7`, `Opus-4.6`, `Sonnet-4.6`, `Haiku-4.5`)
+  - [Artificial Analysis - models comparator](https://artificialanalysis.ai/)
+  - [Anthropic skills](https://github.com/anthropics/skills)
+  - [Google skills](https://github.com/google/skills) (cloud skills)
+  - [Google modern web guidance](https://github.com/GoogleChrome/modern-web-guidance)
+  - [OpenAI skills](https://github.com/openai/skills)
+  - [Microsoft skills](https://github.com/microsoft/skills)
+  - [Grill-me skill}(https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md)
+  - [Misc skills Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
 
 ## IM
 
@@ -148,9 +166,13 @@ Bitcoin nodes:
 * [Nostr](https://nostr.com/): Very simple service that can be used for sharing data. No KYC.
 * [DeWeb](https://docs.massa.net/docs/deweb/home): The DeWeb is your gateway to a fully decentralized web.
 
+## Everyday life
+
+* [What 3 words](https://what3words.com/about): what3words has given every 3 metre square in the world a unique address made of 3 random words. It’s a very simple way to communicate precise locations.
+
 ## Links
 
 * [NetHood](https://nethood.org/): NetHood is about bridging the digital with the physical space; sharing ideas and experiences, affirming differences; claiming our right to the hybrid city; building together local solutions for local needs, as part of a global community of practice, including: the organic Internet, neighborhood catalysts, complementary currencies, cooperative housing, and sustainable food culture. See the [list of lnks](https://nethood.org/links/).
 * [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): This is a list of Free Software network services and web applications which can be hosted on your own server(s).
-
+* [Humanizer - "removes signs of AI-generated writing"](https://github.com/blader/humanizer)
 
