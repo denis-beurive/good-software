@@ -165,7 +165,13 @@ Bitcoin nodes:
 * [Meshtastic](https://meshtastic.org/): Off-Grid Communication For Everyone.
 * [Nostr](https://nostr.com/): Very simple service that can be used for sharing data. No KYC.
 * [DeWeb](https://docs.massa.net/docs/deweb/home): The DeWeb is your gateway to a fully decentralized web.
-
+* [SimpleX](https://simplex.chat/): A chat application that respects your privacy.
+  - No KYC: no phone number, no email required.
+  - End to end encryption.
+  - Tor like network designed to hide metadata (especially your IP address).
+  - For techies: it is easy to install your own router.
+  - Available for Android, IOS, Linux, MacOX and Windows.
+  
 ## Everyday life
 
 * [What 3 words](https://what3words.com/about): what3words has given every 3 metre square in the world a unique address made of 3 random words. It’s a very simple way to communicate precise locations.
