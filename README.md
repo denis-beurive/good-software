@@ -22,7 +22,7 @@
   * Good to know: use the private navigation window.
 * [DuckDuckGo Brower](https://duckduckgo.com/): A pretty good privacy oriented browser. I like the "fire button".
 * [Lucks / cryptsetup](https://gitlab.com/cryptsetup/cryptsetup): Create encrypted partitions.
-* [Parted Magic](https://partedmagic.com/): Disk Management Software: Erase, Partition, Clone. Runs from a USN key.
+* [Parted Magic](https://partedmagic.com/): Disk Management Software: Erase, Partition, Clone. Runs from a USB key.
 * [Mooltipass](https://www.themooltipass.com/): A Simple Open Source Hardware Authenticator.
 * [Onlykey](https://onlykey.io/): A pretty good hardware authenticator.
 * [Proton Authenticator](https://proton.me/authenticator): simply **the best** application for 2FA authentication. Why ?
@@ -36,6 +36,14 @@
   - [Prompt injection as Role Confusion](https://role-confusion.github.io/)
   - [JaiLIP: Jailbreaking Vision-Language Models via Loss Guided Image Perturbation](https://arxiv.org/html/2509.21401v2)
   - [Call Me A Jerk: Persuading AI to Comply with Objectionable Requests](https://gail.wharton.upenn.edu/research-and-insights/persuading-llms-initial-study/)
+* [Kleopatra by KDE](https://apps.kde.org/kleopatra/): Kleopatra is an open-source certificate manager and graphical front-end for cryptographic services, primarily designed to handle OpenPGP and S/MIME (X.509) certificates. Part of the KDE ecosystem, it provides an accessible interface for managing encryption keys, signing and verifying data, and encrypting or decrypting files and emails.
+
+   > On Windows, Kleopatra is bundled as part of the [Gpg4win](https://gpg4win.org/) suite, making it the primary tools for managing GnuPG (GPG) encryption on Windows.
+
+* [Kleopatra app](https://kleopatra.app/tools/kleopatra-download): The free PGP app - now native on Windows and macOS. Manage keys, encrypt, decrypt and sign offline, with optional zero-knowledge sync across your devices.
+* [VISIO](https://github.com/suitenumerique/meet): The French version of Microsoft Teams.
+* [zxcvbn](https://github.com/dropbox/zxcvbn): `zxcvbn` is a password strength estimator inspired by password crackers. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames according to US census data, popular English words from Wikipedia and US television and movies, and other common patterns like dates, repeats (aaa), sequences (abcd), keyboard patterns (qwertyuiop), and l33t speak.
+* [zxcvbn-ts](https://github.com/zxcvbn-ts/zxcvbn): this rewrite of `zxcvbn` (using TypeScript) comes with a French dictionary. Check the [demo](https://zxcvbn-ts.github.io/zxcvbn/demo/).
 
 ## Hacking
 
@@ -171,7 +179,7 @@ Bitcoin nodes:
   - Tor like network designed to hide metadata (especially your IP address).
   - For techies: it is easy to install your own router.
   - Available for Android, IOS, Linux, MacOX and Windows.
-  
+
 ## Everyday life
 
 * [What 3 words](https://what3words.com/about): what3words has given every 3 metre square in the world a unique address made of 3 random words. It’s a very simple way to communicate precise locations.
