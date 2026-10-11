@@ -15,8 +15,9 @@
   * [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/): displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more...
   * [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/): spoof websites trying to gather information about your web navigation.
   * [Firefox Relay](https://addons.mozilla.org/en-US/firefox/addon/private-relay/): firefox Relay lets you generate email aliases that forward to your real inbox.
-* Firefox configuration:
-  * [Fingerprinting resistance](https://support.mozilla.org/en-US/kb/resist-fingerprinting): When Resist Fingerprinting settings are enabled in Firefox Advanced Preferences (the Configuration Editor about:config page), it can help prevent websites from uniquely identifying you by limiting the information they can gather about your device. 
+  * [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/): Automatically removes tracking parameters from URLs
+  * [Fingerprinting resistance](https://support.mozilla.org/en-US/kb/resist-fingerprinting): When Resist Fingerprinting settings are enabled in Firefox Advanced Preferences (the Configuration Editor about:config page), it can help prevent websites from uniquely identifying you by limiting the information they can gather about your device.
+  * [Clear Cache](https://addons.mozilla.org/en-US/firefox/addon/clearcache/): Clear Firefox cache and selected browsing data from the toolbar, context menu, or F9 shortcut. Choose what to clear, pick a time range, and optionally reload the active tab.
 * [Brave](https://brave.com): Brave defends your privacy by defaults.
   * Recommended extension: DuckDuckGo Search & Tracker Protection.
   * Good to know: use the private navigation window.
